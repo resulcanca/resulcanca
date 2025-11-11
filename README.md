@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm Resul Canca<br><br>🎯 **Data Scientist | AI Developer | Data Analyst**  <br>Transforming data into insights, and insights into intelligent solutions.<br><br>---<br><br> 🧠 About Me<br>I'm a data enthusiast passionate about turning complex data problems into clear, actionable outcomes.  <br>I build intelligent systems, analyze patterns, and develop AI-driven solutions using modern data technologies.  <br><br>Currently, I’m focused on:<br>- 📊 Predictive analytics & data-driven decision systems  <br>- 🤖 Machine learning & generative AI applications  <br>- 📈 Business analytics and visualization with Power BI, Python, and SQL  <br><br>---<br><br>**Languages & Tools:**  <br>`Python` • `R` • `SQL` • `Power BI` • `Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib` • `TensorFlow` • `OpenAI API` • `Git` • `Jupyter Notebook`<br>
 
 
