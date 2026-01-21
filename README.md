@@ -1,5 +1,7 @@
 # Hello 👋, I'm Resul Canca
 ### Data Analyst | Applied Machine Learning & Business Intelligence
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+<br><br>
 
 Data Analyst specializing in **Python-based analytics and applied machine learning**.  
 Experienced in turning complex datasets into clear insights through EDA, predictive models, and BI dashboards.  
@@ -25,4 +27,5 @@ Focused on real-world, business-oriented data problems and scalable analytical s
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resulcanca&layout=compact&theme=merko" alt="En Çok Kullanılan Diller" />
+
 
