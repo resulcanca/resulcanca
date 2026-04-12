@@ -24,8 +24,5 @@ Focused on real-world, business-oriented data problems and scalable analytical s
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resulcanca&layout=compact&theme=merko" alt="En Çok Kullanılan Diller" />
 
 
